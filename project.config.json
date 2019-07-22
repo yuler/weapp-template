@@ -1,9 +1,27 @@
 {
-	"projectname": "xiaobaitu",
+	"projectname": "template",
 	"appid": "wxe8baf3d30b3f29f4",
 	"compileType": "miniprogram",
-  "simulatorType": "wechat",
-	"setting": {},
+	"simulatorType": "wechat",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
 	"simulatorPluginLibVersion": {},
+	"libVersion": "2.7.7",
 	"condition": {}
 }
